@@ -20,6 +20,7 @@ var (
 		"golang.org/x/exp":            "github.com/golang/exp",
 		"golang.org/x/build":          "github.com/golang/build",
 		"golang.org/x/perf":           "github.com/golang/perf",
+		"golang.org/x/crypto":         "github.com/golang/crypto",
 		"golang.org/x/time":           "github.com/golang/time",
 		"google.golang.org/genproto":  "github.com/google/go-genproto",
 		"google.golang.org/grpc":      "github.com/grpc/grpc-go",
