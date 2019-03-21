@@ -1,5 +1,14 @@
 # go-mod-tidy
 
+### 推荐一个更好的方式
+
+<https://goproxy.io>
+```bash
+# 只需要执行以下命令，即可正常使用 go mod tidy
+export GOPROXY=https://goproxy.io
+
+```
+
 ### 墙内专供
 
 墙内使用 `go mod tidy` 时，经常遇到 `golang.org/x/xxx` 之类墙内访问不到的包，在 `go.mod` 中可以使用 
