@@ -140,4 +140,5 @@ func (m *mod) moveReplace() {
 			require = append(require, p)
 		}
 	}
+	m.require = require
 }
