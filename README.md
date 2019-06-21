@@ -1,5 +1,8 @@
 # go-mod-tidy
 
+> 推荐看下这个 
+<https://github.com/hqpko/gomod>
+
 ### 推荐一个更好的方式
 
 <https://goproxy.io>
